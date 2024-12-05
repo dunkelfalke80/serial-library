@@ -103,3 +103,6 @@ Specifies the read type for the Read method.
 
 - eReadFull: Reads until the buffer is full or a timeout has occured.
 - eReadEtx: Reads until an ETX (End of Text) character is encountered.
+
+## License
+This project is licensed under the MIT No Attribution license. Feel free to use it as you wish.
