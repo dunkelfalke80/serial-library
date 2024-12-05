@@ -57,11 +57,11 @@ Reads a single byte from the serial port. if smallTimeout is set to true, then t
 
 Writes a buffer to the serial port.
 
-   int Write(std::string& buf)
+    int Write(std::string& buf)
 
 Writes a string to the serial port.
 
-   int WriteByte(char b)
+    int WriteByte(char b)
 
 Writes a single byte to the serial port.
 
